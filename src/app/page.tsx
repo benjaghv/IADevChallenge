@@ -14,11 +14,7 @@ export default function Home() {
         />
         <ol className="list-inside list-decimal text-sm/6 text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
           <li className="mb-2 tracking-[-.01em]">
-<<<<<<< HEAD
-            Get started by editing{" "}
-=======
             Edita nomás{" "}
->>>>>>> 91a93877e2a7c1822736c5e708329bba5d14cb85
             <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-[family-name:var(--font-geist-mono)] font-semibold">
               src/app/page.tsx
             </code>
